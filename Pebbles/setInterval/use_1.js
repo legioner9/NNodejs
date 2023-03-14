@@ -18,3 +18,4 @@ const event = () => {
 
 console.log('Begin')
 timer = setInterval(event, INTERVAL)
+ 
