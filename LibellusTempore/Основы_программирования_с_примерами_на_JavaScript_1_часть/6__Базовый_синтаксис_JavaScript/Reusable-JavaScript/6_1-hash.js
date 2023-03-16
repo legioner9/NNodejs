@@ -12,5 +12,5 @@ const persons = {
 
 for (const name in persons) {
   const person = persons[name];
-  welcome(person)
+  welcome(person);
 }

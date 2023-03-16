@@ -6,7 +6,7 @@ console.log('Begin');
 for (var i = 0; i < MAX_VALUE; i++) {
   console.dir({
     i: i,
-    date: new Date()
+    date: new Date(),
   });
 }
 
