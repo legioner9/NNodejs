@@ -1,8 +1,10 @@
 {
-  "printWidth": 80,
   "singleQuote": true,
   "trailingComma": "all",
-  "bracketSpacing": true,
-  "tabWidth": 2,
-  "semi": true
+  "overrides": [
+    {
+      "files": ["**/.*rc", "**/*.json"],
+      "options": { "parser": "json" }
+    }
+  ]
 }
