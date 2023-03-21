@@ -1,8 +1,0 @@
-### [ТОП 18 Cервисов для веб-разработчика](https://www.youtube.com/watch?v=Dq49ZHyyg_U&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=1)
-### [ТОП 15 Технических сайтов для разработчиков](https://www.youtube.com/watch?v=xMxtK18MCEQ&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=2)
-### [Экосистема React: Компоненты, Библиотеки, Плагины (React Ecosystem)](https://www.youtube.com/watch?v=fN_OFrpQswE&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=3)
-### [ТОП 20 JavaScript плагинов для веб-разработчика (2-я часть)](https://www.youtube.com/watch?v=0S4ppFs_n20&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=4)
-### [ТОП 20 JavaScript плагинов для веб-разработчика](https://www.youtube.com/watch?v=k3rCu57XbsI&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=5)
-### [ТОП 25 инструментов React разработчика](https://www.youtube.com/watch?v=_T57mBi_VQs&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=6)
-### [ТОП 25 сервисов для веб-разработчика](https://www.youtube.com/watch?v=EeoQepXaOBY&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=7)
-### [ТОП 16 Плагинов для VS Code в 2020 (VS Code Extensions)](https://www.youtube.com/watch?v=g8LmiLTXkqo&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=8)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Подборки полезных ресурсов](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH)
-### [Экосистема React: Компоненты, Библиотеки, Плагины (React Ecosystem)](https://www.youtube.com/watch?v=fN_OFrpQswE&amp;list=PLNkWIWHIRwMEHlbdgFSI7zrPHZqa3_dlH&amp;index=3)
