@@ -1,0 +1,25 @@
+## Classes
+
+```js
+class Circle extends Shape {
+// Constructor
+  constructor (radius) {
+    this.radius = radius
+  }
+ 
+// Methods
+  getArea () {
+    return Math.PI * 2 * this.radius
+  }
+ 
+// Calling superclass methods
+  expand (n) {
+    return super.expand(n) * Math.PI
+  }
+ 
+// Static methods
+  static createFromDiameter(diameter) {
+    return new Circle(diameter / 2)
+  }
+}
+```

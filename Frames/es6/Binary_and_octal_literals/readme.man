@@ -1,0 +1,6 @@
+## Binary_and_octal_literals
+
+```js
+let bin = 0b1010010
+let oct = 0o755
+```
